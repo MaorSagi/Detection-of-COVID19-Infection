@@ -6,11 +6,10 @@ You can find the paper [here](https://www.sciencedirect.com/science/article/pii/
 
 <p>Running instructions:</p>
 <ol>
-<li>Notice your working directory is Snapshot-Ensamble-Network folder. otherwise run the command:</li>
-<code>cd Snapshot-Ensamble-Network</code>
+<li>Notice your working directory is Detection-of-COVID19-Infection folder. otherwise run the command:</li>
+<code>cd Detection-of-COVID19-Infection</code>
 <li>Install all the libraries required by running the following command:</li>
 <code>pip install -r requirements.txt</code>
-<li>In the consts file determine the parameters regarding to your needs.</li>
 <li>Run the project by running the command:</li>
 <code>python main.py</code>
 </ol>
