@@ -1,4 +1,4 @@
-# Detection of COVID 19 Infection
+# Detection of COVID 19 Infection (Apr 2021)
 The goal of this project is to develop a classifier for predict if a patient infected by Covid 19 using regular blood tests data.
 
 Based on the paper of Alves et al., Explaining Machine Learning based Diagnosis of COVID-19 from Routine Blood Tests with Decision Trees and Criteria Graphs. I wrote code that reproduced the experiments in the paper, and then suggested new features and evaluate additional classifiers: CatBoost and LightGBM. The results explained using SHAP.
